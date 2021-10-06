@@ -1,0 +1,10 @@
+create a python programe which capture webacm image every few minutes and uploads on the dropbox
+
+we are going to build asecurity programe for our pc where we will capture a phopto of anyone and upload them on to dropbox 
+----------------
+opencv is a huge python library which is used to capture images and perform other kinds of image processing work
+
+pip3 install opencv-python 
+cv2-computer vision library
+cv2.VideoCapture(0)
+ cv2.imwrite
